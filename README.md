@@ -136,7 +136,7 @@ The dashboard helps users explore employment trends across industries, countries
 ## Connect With Me
 
 LinkedIn:
-www.linkedin.com/in/ritesh-pradhan
+https://www.linkedin.com/in/ritesh-pradhan23/
 
 GitHub:
 https://github.com/Ritesh-Pradhan-23
